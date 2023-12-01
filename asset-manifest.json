@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/EstebanHdez1/chibcha-web.git/static/css/main.0ece3dae.css",
+    "main.js": "/EstebanHdez1/chibcha-web.git/static/js/main.c8e9500f.js",
+    "static/js/787.583cb113.chunk.js": "/EstebanHdez1/chibcha-web.git/static/js/787.583cb113.chunk.js",
+    "static/media/marked.cjs": "/EstebanHdez1/chibcha-web.git/static/media/marked.9d11e79e65a241a47955.cjs",
+    "static/media/logo.svg": "/EstebanHdez1/chibcha-web.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/EstebanHdez1/chibcha-web.git/index.html",
+    "main.0ece3dae.css.map": "/EstebanHdez1/chibcha-web.git/static/css/main.0ece3dae.css.map",
+    "main.c8e9500f.js.map": "/EstebanHdez1/chibcha-web.git/static/js/main.c8e9500f.js.map",
+    "787.583cb113.chunk.js.map": "/EstebanHdez1/chibcha-web.git/static/js/787.583cb113.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ece3dae.css",
+    "static/js/main.c8e9500f.js"
+  ]
+}
